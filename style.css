@@ -1,1 +1,13 @@
+body {
+	text-align: center;
+	font-family: 'Arial';
+	background: orange;
+	color: white;
+  font-size: 15;
+}
+
+img {
+	width: 200px;
+	border-radius: 10%; 
+}
 
